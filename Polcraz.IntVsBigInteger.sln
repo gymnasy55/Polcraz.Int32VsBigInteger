@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntVsBigInteger.Cli", "IntVsBigInteger.Cli\IntVsBigInteger.Cli.csproj", "{5C8FC174-D32D-40AD-A425-4166E397B3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Int32VsBigInteger.Models", "Int32VsBigInteger.Models\Int32VsBigInteger.Models.csproj", "{A5C2EFC9-2516-4642-A7C4-DE2DC78E9A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Int32VsBigInteger.Benchmarks", "Int32VsBigInteger.Benchmarks\Int32VsBigInteger.Benchmarks.csproj", "{DFBF4620-1B2F-42DB-91DB-FC0568C28F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8FC174-D32D-40AD-A425-4166E397B3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8FC174-D32D-40AD-A425-4166E397B3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8FC174-D32D-40AD-A425-4166E397B3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8FC174-D32D-40AD-A425-4166E397B3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C2EFC9-2516-4642-A7C4-DE2DC78E9A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C2EFC9-2516-4642-A7C4-DE2DC78E9A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C2EFC9-2516-4642-A7C4-DE2DC78E9A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C2EFC9-2516-4642-A7C4-DE2DC78E9A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBF4620-1B2F-42DB-91DB-FC0568C28F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBF4620-1B2F-42DB-91DB-FC0568C28F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBF4620-1B2F-42DB-91DB-FC0568C28F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBF4620-1B2F-42DB-91DB-FC0568C28F70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
