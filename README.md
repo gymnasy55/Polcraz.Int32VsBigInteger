@@ -1,5 +1,4 @@
 # Polcraz.Int32VsBigInteger
-___
 Simple benchmarks of boxing/unboxing Int32 and BigInteger in C#.
 
 ## Int32VsBigInteger.Models
